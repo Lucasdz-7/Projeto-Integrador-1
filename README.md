@@ -40,22 +40,22 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+- [x] Teste e revise;
+- [x] Documente instruções de uso;
+- [x] Criação do vídeo;
+- [x] Finalize e aprovação.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [x] Documento passo a passo;
+- [x] Vídeo passo a passo;
+- [x] Treinamento com os professores;
+- [x] Treinamento com os alunos;
+- [x] Monitoramento e ajustes.
       
 ## Sprint 3
 - [ ] Defina o propósito do template;
