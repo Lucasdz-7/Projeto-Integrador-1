@@ -40,51 +40,35 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 # Backlog do produto
 
 ## Sprint 1
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
-- [x] Criação do vídeo;
-- [x] Finalize e aprovação.
+- [x] Análise Comparativa Regional;
+- [x] Criar métricas e gráficos no Power BI para comparar desempenho entre municípios vizinhos e de porte semelhante;
+- [x] Identificação de Mercados Emergentes;
+- [x] Processar dados sobre exportações por país e implementar filtros interativos no dashboard;
 
 ## Sprint 2
-- [x] Documento passo a passo;
-- [x] Vídeo passo a passo;
-- [x] Treinamento com os professores;
-- [x] Treinamento com os alunos;
-- [x] Monitoramento e ajustes.
+- [x] Impacto de políticas econômicas;
+- [x] Desenvolver modelos para correlacionar mudanças tarifárias e acordos comerciais com fluxos de exportação;
+- [x] Diversificação de produtos;
+- [x] Criar visualizações que mostrem concentração e variedade dos produtos exportados;
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Estudo de sazonalidade;
+- [ ] Desenvolver análises temporais para identificar padrões sazonais em exportações;
+- [ ] Avaliação de competitividade;
+- [ ] Criar comparativos de preços e qualidade dos produtos exportados em relação ao mercado internacional;
       
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Mapeamento de cadeias produtivas;
+- [ ] Identificar fornecedores e clientes internacionais e visualizar suas conexões econômicas;
+- [ ] Análise de risco;
+- [ ] Implementar alertas sobre dependência excessiva de poucos mercados ou parceiros comerciais;
 
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 09/04/2025 | a fazer| [MVP](https://) | 
-|02|  23/04/2025| a fazer|[MVP](https://) | 
-|03| 14/05/2025 | a fazer|[MVP](https://) | 
-|04| 25/06/2025 |a fazer |[MVP](https://)  | 
-|Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
+|01 | 09/04/2025 | Concluído| [MVP](https://) | 
+|02|  30/04/2025| Concluído|[MVP](https://) | 
+|03| 21/05/2025 | a fazer|[MVP](https://) | 
+|04| 17/06/2025 |a fazer |[MVP](https://)  | 
+|Feira de Soluções|17/06/2025 |a fazer |[MVP](https://) | 
