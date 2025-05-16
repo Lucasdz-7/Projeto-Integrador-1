@@ -12,11 +12,11 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Fernanda Gabriele|     [![Linkedin Badge](https://www.linkedin.com/in/fernanda-gabrielle-bb594533b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blsr%2BLAnoTBu1fQnCmbaqHg%3D%3D)]
-| Scrum Master  | Lucas Donizeti|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HannahVianna)     |
+| Product Owner |   Fernanda Gabriele|    [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-gabrielle-bb594533b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKI%2BRe7UsQPuDxZWv91hiVw%3D%3D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fehgbrielle07)        |
+| Scrum Master  | Lucas Donizeti|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/lucas-donizeti-53a9a1347) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Lucasdz-7/Projeto-Integrador-1.git)        |
 | Team Member   | Iris Vitória              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irisbento/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/irxsvxx)        |
 |  Team Member  | Luã Reis                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%A3-reis-345192279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Luacripton)        |
-|  Team Member  | Hannah Vianna                 |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/lucas-donizeti-53a9a1347) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Lucasdz-7/Projeto-Integrador-1.git)        |
+|  Team Member  | Hannah Vianna                 |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://br.linkedin.com/in/lucas-donizeti-53a9a1347](https://www.linkedin.com/in/hannah-diniz-382635363?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BunWeUb6xR6KSyr91RZB%2FZQ%3D%3D)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HannahViana)        |
 |  Team Member  | Samira de Cássia                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samira-c%C3%A1ssia-75025b357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/samira312)   |
 |  Team Member  | Tiago Moreira       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-moreira-93937a35b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/TiagoMoreiraLuz)         |
 
@@ -25,8 +25,8 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
  ### Tecnologias Específicas/Apoio
  1. PowerBI
  3. Linguagem Python
- 4. Collab
- 5. Linguagem M (M query)
+ 4. Colab
+ 5. Biblioteca Pandas
  6. Linguagem DAX (Data Analysis Expressions)
   
  ### Tecnologias da Informação
@@ -70,5 +70,5 @@ Sprint | Previsão | Status| Histórico|
 |01 | 09/04/2025 | Concluído| [MVP](https://) | 
 |02|  30/04/2025| Concluído|[MVP](https://) | 
 |03| 21/05/2025 | a fazer|[MVP](https://) | 
-|04| 17/06/2025 |a fazer |[MVP](https://)  | 
+|04| 11/06/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|17/06/2025 |a fazer |[MVP](https://) | 
