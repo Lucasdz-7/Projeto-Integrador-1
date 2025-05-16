@@ -30,12 +30,10 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
  6. Linguagem DAX (Data Analysis Expressions)
   
  ### Tecnologias da Informação
-1. Computadores
-2. Whatsapp
-3. Discord
-4. Linkedin
-5. Github
-6. Collab
+1. Whatsapp
+2. Discord
+3. Linkedin
+4. Github
 
 # Backlog do produto
 
