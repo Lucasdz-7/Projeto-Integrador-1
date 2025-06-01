@@ -50,10 +50,10 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 - [x] Criar visualizações que mostrem concentração e variedade dos produtos exportados;
       
 ## Sprint 3
-- [ ] Estudo de sazonalidade;
-- [ ] Desenvolver análises temporais para identificar padrões sazonais em exportações;
-- [ ] Avaliação de competitividade;
-- [ ] Criar comparativos de preços e qualidade dos produtos exportados em relação ao mercado internacional;
+- [x] Estudo de sazonalidade;
+- [x] Desenvolver análises temporais para identificar padrões sazonais em exportações;
+- [x] Avaliação de competitividade;
+- [x] Criar comparativos de preços e qualidade dos produtos exportados em relação ao mercado internacional;
       
 ## Sprint 4
 - [ ] Mapeamento de cadeias produtivas;
@@ -67,6 +67,6 @@ Sprint | Previsão | Status|
 |------|--------|------|
 |01 | 09/04/2025 | Concluído|
 |02|  30/04/2025| Concluído|
-|03| 21/05/2025 | a fazer|
-|04| 11/06/2025 |a fazer |
+|03| 04/06/2025 | a fazer|
+|04| 17/06/2025 |a fazer |
 |Feira de Soluções|17/06/2025 |a fazer |
