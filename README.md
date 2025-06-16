@@ -56,10 +56,10 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 - [x] Criar comparativos de preços e qualidade dos produtos exportados em relação ao mercado internacional;
       
 ## Sprint 4
-- [ ] Mapeamento de cadeias produtivas;
-- [ ] Identificar fornecedores e clientes internacionais e visualizar suas conexões econômicas;
-- [ ] Análise de risco;
-- [ ] Implementar alertas sobre dependência excessiva de poucos mercados ou parceiros comerciais;
+- [x] Mapeamento de cadeias produtivas;
+- [x] Identificar fornecedores e clientes internacionais e visualizar suas conexões econômicas;
+- [x] Análise de risco;
+- [x] Implementar alertas sobre dependência excessiva de poucos mercados ou parceiros comerciais;
 
 # Registro das Sprints
 
