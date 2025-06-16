@@ -63,10 +63,10 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 
 # Registro das Sprints
 
-Sprint | Previsão | Status|
-|------|--------|------|
-|01 | 09/04/2025 | Concluído|
-|02|  30/04/2025| Concluído|
-|03| 04/06/2025 | a fazer|
-|04| 17/06/2025 |a fazer |
-|Feira de Soluções|17/06/2025 |a fazer |
+Sprint | Previsão | Status | Histórico |
+|------|--------|------|--------|
+|01 | 09/04/2025 | Concluído | [MVP](https://) | 
+|02|  30/04/2025| Concluído | [MVP](https://) | 
+|03| 04/06/2025 | Concluído | [MVP](https://) | 
+|04| 17/06/2025 | Concluído | [MVP](https://) | 
+|Feira de Soluções|17/06/2025 |a fazer | [MVP](https://) | 
