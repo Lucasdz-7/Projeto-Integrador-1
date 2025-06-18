@@ -65,8 +65,8 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 
 Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
-|01 | 09/04/2025 | Concluído | [MVP](https://) | 
-|02|  30/04/2025| Concluído | [MVP](https://) | 
-|03| 04/06/2025 | Concluído | [MVP](https://) | 
-|04| 17/06/2025 | Concluído | [MVP](https://) | 
-|Feira de Soluções|17/06/2025 |a fazer | [MVP](https://) | 
+|01 | 09/04/2025 | Concluído | [MVP](https://docs.google.com/document/d/1KaDDcDLEqFQL5GvDBwGN0I9EU1RgUWj5MFP4rCalA3k/edit?usp=drive_link) | 
+|02|  30/04/2025| Concluído | [MVP](https://docs.google.com/document/d/1YZ_WxDUyqR9lWcMrkUm3Bpk7j7EA1rpr69jecNP_Mr8/edit?usp=drive_link) | 
+|03| 04/06/2025 | Concluído | [MVP](https://docs.google.com/document/d/1o1Q6OChl9nvNAt1fW8s2_t5RlRFVHNdv7uxyMx7HuEg/edit?usp=drive_link) | 
+|04| 17/06/2025 | Concluído | [MVP](https://docs.google.com/document/d/1o1Q6OChl9nvNAt1fW8s2_t5RlRFVHNdv7uxyMx7HuEg/edit?usp=drive_link) | 
+|Feira de Soluções|17/06/2025 |a fazer | [MVP](https://drive.google.com/drive/folders/1NYsjuWK12ZH6zu7WAvxcN0UXGRX4Vf6F?usp=sharing) | 
